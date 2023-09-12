@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUsvfhIOhAxSovcLQolnoNS8+3qBmTM9Q1tFcL6P7RkxnRqhPXc8ToIfMqFsRXr93MbRTAQBV0CuqSmTYivtIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wolf\\Documents\\Visual Studio Stuff\\PKHeXFeebasLocatorPlugin.git\\FeebasLocatorPlugin\\FeebasLocatorPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wolf\\.nuget\\packages\\pkhex.core\\23.8.24\\pkhex.core.23.8.24.nupkg.sha512",
+    "C:\\Users\\Wolf\\.nuget\\packages\\system.resources.extensions\\7.0.0\\system.resources.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\bin\Release\net7.0-windows\FeebasLocatorPlugin.deps.json
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\bin\Release\net7.0-windows\FeebasLocatorPlugin.dll
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\bin\Release\net7.0-windows\FeebasLocatorPlugin.pdb
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.csproj.AssemblyReference.cache
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.FeebasLocatorForm.resources
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.Properties.Resources.resources
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.csproj.GenerateResource.cache
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.AssemblyInfoInputs.cache
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.AssemblyInfo.cs
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.dll
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\refint\FeebasLocatorPlugin.dll
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\FeebasLocatorPlugin.pdb
+C:\Users\Wolf\Documents\Visual Studio Stuff\PKHeXFeebasLocatorPlugin.git\FeebasLocatorPlugin\obj\Release\net7.0-windows\ref\FeebasLocatorPlugin.dll
